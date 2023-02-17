@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CamundaCodingChallenge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CamundaCodingChallenge_jar</output-path>
+    <root id="archive" name="CamundaCodingChallange.jar">
+      <element id="module-output" name="CamundaCodingChallenge" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/bpm/dmn/camunda-engine-feel-api/7.9.0/camunda-engine-feel-api-7.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/bpm/camunda-engine/7.9.0/camunda-engine-7.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-email/1.5/commons-email-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-asm/3.1.2.RELEASE/spring-asm-3.1.2.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/bpm/model/camunda-xml-model/7.9.0/camunda-xml-model-7.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/commons/camunda-commons-typed-values/1.5.0/camunda-commons-typed-values-1.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/bpm/model/camunda-dmn-model/7.9.0/camunda-dmn-model-7.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/bpm/dmn/camunda-engine-feel-juel/7.9.0/camunda-engine-feel-juel-7.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/bpm/model/camunda-cmmn-model/7.9.0/camunda-cmmn-model-7.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/bpm/model/camunda-bpmn-model/7.9.0/camunda-bpmn-model-7.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/bpm/dmn/camunda-engine-dmn/7.9.0/camunda-engine-dmn-7.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/commons/camunda-commons-utils/1.5.0/camunda-commons-utils-1.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/camunda/commons/camunda-commons-logging/1.5.0/camunda-commons-logging-1.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/joda-time/joda-time/2.1/joda-time-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/activation/activation/1.1/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
